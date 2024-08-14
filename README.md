@@ -82,5 +82,5 @@ Prediction: Once the image is uploaded, click the "Predict" button to get the di
 Result: The predicted class and confidence level will be displayed below the uploaded image.
 ## Screenshots
 
-![App Screenshot](https://github.com/AbhishekY9/Plant-Disease-Prediction/blob/main/fig/Screenshot_1.png)
+<img src="https://github.com/AbhishekY9/Plant-Disease-Prediction/blob/main/fig/Screenshot_1.png" alt="App Screenshot" width="500">
 
