@@ -1,0 +1,83 @@
+body, html {
+    height: 100%;
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+
+.background {
+    background-image: url('/fig/farm.jpg');
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+}
+
+.headline {
+    position: absolute;
+    top: 80px; /* Position headline slightly lower */
+    text-align: center;
+    z-index: 1;
+}
+
+.headline h1 {
+    font-size: 3em; /* Adjust the size as needed */
+    color: white;
+    margin: 0;
+}
+
+.content {
+    background: rgba(255, 255, 255, 0.8);
+    padding: 20px;
+    border-radius: 10px;
+    text-align: center;
+    margin-top: 60px; /* Move the content block slightly lower from the center */
+    margin-bottom: 60px; /* Add margin from the bottom of the screen */
+}
+
+h1 {
+    color: #333;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+input[type="file"] {
+    margin-top: 20px; /* Add space above the file input */
+}
+
+.image-container {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+button {
+    margin-top: 20px; /* Space between image and button */
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    display: block; /* Ensure button is displayed as a block element */
+    margin-left: auto;
+    margin-right: auto;
+}
+
+button:hover {
+    background-color: #45a049;
+}
