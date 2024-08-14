@@ -56,7 +56,7 @@ PIL
 
 1. Clone the repository:
 
-      git clone: https://github.com/AbhishekY9/Plant-Disease-Prediction.git
+       git clone: https://github.com/AbhishekY9/Plant-Disease-Prediction.git
 
     cd Plant-Disease-Prediction
 
