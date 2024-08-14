@@ -58,17 +58,17 @@ PIL
 
        git clone: https://github.com/AbhishekY9/Plant-Disease-Prediction.git
 
-    cd Plant-Disease-Prediction
+       cd Plant-Disease-Prediction
 
 2. Install the required Python packages:
 
-pip install -r requirements.txt
+       pip install -r requirements.txt
 
 3. Place the trained model in the saved_models/1/ directory.
 
 4. Start the FastAPI server:
 
-uvicorn main:app --reload
+       uvicorn main:app --reload
 
 5. Open your browser and navigate to http://localhost:8000.
 
