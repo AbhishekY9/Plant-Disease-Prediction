@@ -83,4 +83,6 @@ Result: The predicted class and confidence level will be displayed below the upl
 ## Screenshots
 
 <img src="https://github.com/AbhishekY9/Plant-Disease-Prediction/blob/main/fig/Screenshot_1.png" alt="App Screenshot" width="650">
+<img src="https://github.com/AbhishekY9/Plant-Disease-Prediction/blob/main/fig/Screenshot_2.png" alt="App Screenshot" width="650">
+<img src="https://github.com/AbhishekY9/Plant-Disease-Prediction/blob/main/fig/Screenshot_3.png" alt="App Screenshot" width="650">
 
