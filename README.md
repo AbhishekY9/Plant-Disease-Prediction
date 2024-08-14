@@ -56,9 +56,9 @@ PIL
 
 1. Clone the repository:
 
-git clone: https://github.com/yourusername/plant-disease-prediction.git
+git clone: https://github.com/AbhishekY9/Plant-Disease-Prediction.git
 
-cd plant-disease-prediction
+cd Plant-Disease-Prediction
 
 2. Install the required Python packages:
 
